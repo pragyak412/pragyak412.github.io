@@ -1,0 +1,61 @@
+{
+    "Publication":[
+        {
+            "title":"Smart Cap for Alzheimer's Patient using Deep Learning",
+            "description":"We proposed a prototype of wearable smart cap which is an assistive device with ability to recognize people related to the patient, it uses a deep learning model for face recognition. We extracted unique feature vectors from faces in the dataset and trains classifieron them hence, it could be easily trained for classifying new classes. We designed a 3D model for the cap, it detects the faces, recognizes them and indicates their names to the patient instantaneously in the form of speech.",
+            "link":"https://ieeexplore.ieee.org/abstract/document/8929412",
+            "photo":"./Images/smartcap.jpg",
+            "linkname":"\"Smart Cap for Alzheimer Patients using Deep Learning,\" TENCON 2019 - 2019 IEEE Region 10 Conference (TENCON)",
+            "github":"https://github.com/pragyak412/Smart-Cap-for-Alzheimer-s-Patient"
+        }
+    ],
+    "Projects":[
+        {
+            "title":"UNIX Shell Development",
+            "description":"A fully programmable user-land ecosystem purely on Python for deployment on IoT boards like RaspberryPi and BeagleBone requires Linux system to be integrated that consists only of Python. UNIX-like shell that allows extensibility using custom python modules to implement various features like pwd, rm, cp, ls, etc as shell commands is implemented under this project.",
+            "photo":"./Images/unixpic.jpg"
+        },
+        {
+            "title":"Cycle - O - Meter",
+            "description": "The project was aimed our normal cycle a running gym equipment during INK-Makethon and got selected for the finale. It was a small device that could be fitted on any cycle. A speed detector placed on the wheel detected the speed and after knowing the time elapsed we found the calories lost, average speed and other details. Also this device gave cyclists an opportunity to set daily goals and finally they will see themselves fulfilling those goals.",
+            "photo":"./Images/CycloMeter.jpg"
+        },
+        {
+            "title":"Gesture/Voice Controlled Bot",
+            "description":"In this project, a hand gesture controlled bot was developed using MPU6050, which is a 3-axis Accelerometer and 3-axis Gyroscope sensor and the controller part is Arduino UNO. Similarly, a voice controlled bot was developed using bluetooth module.",
+            "photo":"./Images/bot.jpg"
+        }
+        ,
+        {
+            "title":"Garden Automation Project",
+            "description":"The system was designed to sense soil moisture, and amount of light falling on the plants. When the moisture content in the soil is too low, the system will give command to start a pump and water the soil. The system also monitered the temparture.",
+            "photo":"./Images/garden.jpg"
+        },
+        {
+            "title":"Safe Route App",
+            "description":"The app helps to find the safest path based on number of crimes committed using shortest path algorithm. User can select the source and destination as the option is given, and the safest route will be displayed after applying the algorithm. Dummy data was used for testing purpose.",
+            "photo":"./Images/saferoute.jpg"
+        },
+        {
+            "title":"Object Counter",
+            "description":"Object counters or product counters are important applications used in industries, shopping malls, etc. They count objects or products automatically and so reduce human efforts. It was implemented using ICs like LM358, 55 timer, CD4033 and two seven segment display to make the upper limit of count as 99. After the movement is sensed by the sensor the count is incremented by 1. ",
+            "photo":"./Images/ObjectCounter.jpg"
+        }
+        
+        
+    ],
+    "Others":[
+        {
+            "title":"Orthogonal Error Correction on FPGA",
+            "description":"An error correction technique was implemented on reciever and transmitter for code length 8 bit."
+        },
+        {
+            "title":"Dress Up App",
+            "description":"An application which helps you to try any dress on your photo using image processing."
+        },
+        {
+            "title":"Chat Application",
+            "description":" A chat application using django was implemented."
+        }
+    ]
+}

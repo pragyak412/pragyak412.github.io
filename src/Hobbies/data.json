@@ -1,0 +1,42 @@
+{
+    "sketch":[
+        {
+            "photo":"./sketch/11.jpg"
+        },
+        {
+            "photo":"./sketch/12.jpg"
+        },
+        {
+            "photo":"./sketch/1.jpg"
+        },
+        {
+            "photo":"./sketch/2.jpg"
+        },
+        {
+            "photo":"./sketch/3.jpg"
+        },
+        {
+            "photo":"./sketch/7.jpg"
+        },
+        {
+            "photo":"./sketch/5.jpg"
+        },
+        {
+            "photo":"./sketch/8.jpg"
+        },
+        
+        {
+            "photo":"./sketch/6.jpg"
+        },
+        {
+            "photo":"./sketch/10.jpg"
+        },
+        {
+            "photo":"./sketch/4.jpg"
+        },
+        {
+            "photo":"./sketch/13.jpg"
+        }
+    ]
+
+}
